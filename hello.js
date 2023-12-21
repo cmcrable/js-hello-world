@@ -4,7 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log ('This is a test of the emergency broadcast system')
+console.log ('42')
+console.log ('The above number was my wife\'s basketball jersey number.')
+console.log ('She was a really good basketball player. She played in high school and college.')
+console.log ('Her nickname is \"Chris\" or \"Christy\".')
+console.log ('Here is that bonus addition question answered\: What is 42 + 24? ')
+console.log (42 + 24)
+
 
 /*  
 Next, PLAY! 
